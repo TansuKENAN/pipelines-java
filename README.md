@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/hypercubetr/Project1/_apis/build/status/TansuKENAN.pipelines-java?branchName=main)](https://dev.azure.com/hypercubetr/Project1/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
