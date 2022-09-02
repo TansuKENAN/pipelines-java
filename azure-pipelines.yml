@@ -7,7 +7,9 @@ trigger:
 - main
 
 pool:
-  vmImage: DemoPool
+  name: DemoPool
+  demands:
+    -agent.name -equals demoag01
 
 steps:
 - task: Maven@3
