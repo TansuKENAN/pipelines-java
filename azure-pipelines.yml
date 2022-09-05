@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: DemoPool
+pool:
+  vmimage: windows-2019
 
 steps:
 - task: Maven@3
